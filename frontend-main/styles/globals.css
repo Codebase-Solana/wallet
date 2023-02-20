@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  text-align: center;
+  min-width: 350px;
+  max-width: 350px;
+  min-height: 700px;
+  max-height: 700px;
+}
